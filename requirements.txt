@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 -e . # When you are adding new library comment it out. 
